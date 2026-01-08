@@ -3,7 +3,7 @@ import java.util.List;
 public class LibraryManager {
 private List<Book> books = new ArrayList<>();
 public void addBook(Book book) {
-books.add(book);
+books.add(book); // book
 System.out.println("Da them sach thanh
 cong!");
 }
